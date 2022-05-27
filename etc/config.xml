@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+	<default>
+		<payment>
+			<skroutz_payment>
+				<active>1</active>
+				<model>Stonewave\SkroutzPayment\Model\Payment\SkroutzPayment</model>
+				<order_status>pending</order_status>
+				<title>Skroutz Payment</title>
+				<allowspecific>0</allowspecific>
+				<group>offline</group>
+			</skroutz_payment>
+		</payment>
+	</default>
+</config>
