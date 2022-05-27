@@ -1,6 +1,6 @@
 {
     "name": "module-skroutzpayment",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "Stonewave skroutz dummy payment module",
     "main": "index.js",
     "dependencies": {},

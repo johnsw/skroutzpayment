@@ -1,0 +1,1 @@
+Dummy payment method that wont work on frontend. It is used only from the seb project for the skroutz basket intergration.
